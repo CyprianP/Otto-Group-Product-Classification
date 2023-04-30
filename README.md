@@ -1,1 +1,3 @@
 # Otto-Group-Product-Classification
+
+This project provides Python code for performing machine learning analysis on a product classification dataset. The code uses popular libraries like pandas, numpy, and scikit-learn to preprocess the data, run several types of models (including KNN, random forests, and neural networks), and evaluate their performance using cross-validation. The results are plotted and stored in a report dataframe. To use this code on your own dataset, replace the CSV file and modify any relevant parameters.
